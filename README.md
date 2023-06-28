@@ -25,8 +25,8 @@ By utilizing this dashboard, users can gain valuable insights into app categorie
 To run the RShiny dashboard locally:
 * Clone the repository using git clone.
 * Install the necessary R packages and dependencies.
-* Make sure to run the DataCleaning.R before running the app to perform basic cleaning of the dataset.
-* An alternative to this would be to directly import the cleaned data.
+* Make sure to run the **[DataCleaning.R](https://github.com/anshi1995/Google-Play-Store-Apps-RShiny-Dashboard/tree/main/Data-Cleaning)** before running the app to perform basic cleaning of the dataset.
+* An alternative to this would be to directly import the **[cleaned data](https://github.com/anshi1995/Google-Play-Store-Apps-RShiny-Dashboard/tree/main/Data/Cleaned-Data)**.
 * Make sure you have the dataset files available in the appropriate directory.
 * Run the app using R Studio or an R development environment.
 
